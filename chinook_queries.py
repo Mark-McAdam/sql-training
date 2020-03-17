@@ -23,7 +23,6 @@ LIMIT 5
 """
 
 
-
 # result = cursor.execute(query)
 # print("Result: ", result) # This returns a cursor object w/o results
 
